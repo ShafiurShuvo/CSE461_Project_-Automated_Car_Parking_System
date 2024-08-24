@@ -41,7 +41,7 @@ This system ensures efficient and secure management of parking facilities, reduc
 ## Circuit and Schematic Views
 
 ### Schematic View
-![Schematic View](Schemetic%20Part-01%2602.png)
+![Schematic View](Schematic%20Part-01%2602.png)
 
 ### Circuit View
 ![Circuit View](Circuit%20Part-01%2602.png)
