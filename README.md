@@ -27,7 +27,7 @@ The RFID-Based Automated Parking Management System is designed to streamline and
 This system simplifies car entry by quickly recognizing RFID tags when a vehicle arrives. The following steps outline the process:
 
 1. **RFID Detection**: As a vehicle approaches, the system detects the RFID tag associated with the vehicle.
-2. **Vehicle Identification**: The system identifies the vehicle and retrieves the relevant information.
+2. **Vehicle Identification**: Here each vehicle is unique because each RFID card has a unique card address. So the system identifies the vehicle and retrieves the relevant information.
 3. **Fee Calculation**: Based on predefined criteria, the system estimates the applicable parking fees.
 4. **LCD Display**: The calculated amount is instantly displayed on the 16x2 or 20x4 LCD screen.
 5. **Balance Check**:
