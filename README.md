@@ -1,8 +1,6 @@
 # RFID_Based_Automated_Toll_Collection_System_&_Car_Parking_System_Using_Arduino
 # [CSE461_Project - Introduction to Robotics]
 
-# RFID-Based Automated Parking Management System
-
 ## Components
 
 - **Arduino Uno**
@@ -10,19 +8,12 @@
 - **20x4 LCD Display**
 - **2 I2C Modules**
 - **2 Servo Motors**
-- **10 IR Sensors**
+- **6 IR Sensors**
 - **RFID Reader Module with RFID Card**
-- **Additional RFID Cards**
-- **Resistors (4.7k and 1k)**
+- **Additional RFID Cards (if needed)**
 - **Breadboard**
-- **Wires**
-- **Glue Stick**
+- **Jumper Wires**
 - **Female Header and Male Header**
-- **Soldering Wire**
-- **Double-Sided Tape (2 units)**
-- **Ply Board**
-- **Blade**
-- **Art Paper**
 
 ## Purpose
 
