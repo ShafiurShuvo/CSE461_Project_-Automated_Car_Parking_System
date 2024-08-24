@@ -1,5 +1,5 @@
-# RFID_Based_Automated_Toll_Collection_System_&_Car_Parking_System_Using_Arduino
 # [CSE461_Project - Introduction to Robotics]
+# RFID_Based_Automated_Toll_Collection_System_&_Car_Parking_System_Using_Arduino
 
 __Group Members :__ <br><br>
 [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [Faisal Ahmed](https://github.com/FaisalAhmed21) | [Nazia Mumtahina](https://github.com/NaziaMumtahina) | [Kazi Abrab Hossain](https://github.com/AbrabOme) | [Maria Hossain Tuli]()
@@ -37,3 +37,11 @@ This system simplifies car entry by quickly recognizing RFID tags when a vehicle
 7. **Parking Lot Full**: If the parking lot is full, the gate remains closed, and the message "No Space" is displayed.
 
 This system ensures efficient and secure management of parking facilities, reducing the need for manual intervention and enhancing user experience.
+
+## Circuit and Schematic Views
+
+### Schematic View
+![Schematic View](Schemetic%20Part-01%2602.png)
+
+### Circuit View
+![Circuit View](Circuit%20Part-01%2602.png)
