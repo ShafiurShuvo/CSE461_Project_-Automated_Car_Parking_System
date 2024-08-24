@@ -45,3 +45,7 @@ This system ensures efficient and secure management of parking facilities, reduc
 
 ### Circuit View
 ![Circuit View](Circuit%20Part-01%2602.png)
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/GiGhQvBfyNY/maxresdefault.jpg)](https://youtu.be/GiGhQvBfyNY)
