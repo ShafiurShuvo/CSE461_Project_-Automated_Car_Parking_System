@@ -6,7 +6,7 @@ __Group Members :__ <br><br>
 
 ## Video Demonstration
 
-[![Watch the video](https://ytcards.demolab.com/?id=GiGhQvBfyNY&title=RFID-Based+Automated+Parking+Management+System&lang=en&timestamp=1724539920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=697 "RFID-Based Automated Parking Management System")](https://youtu.be/GiGhQvBfyNY)
+[![Watch the video](https://ytcards.demolab.com/?id=GiGhQvBfyNY&title=RFID-Based+Automated+Parking+Management+System&lang=en&timestamp=1724539200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=697 "RFID-Based Automated Parking Management System")](https://youtu.be/GiGhQvBfyNY)
 
 ## Components
 
