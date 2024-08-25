@@ -4,6 +4,10 @@
 __Group Members :__ <br><br>
 [MD. Shafiur Rahman](https://github.com/ShafiurShuvo) | [Faisal Ahmed](https://github.com/FaisalAhmed21) | [Nazia Mumtahina](https://github.com/NaziaMumtahina) | [Kazi Abrab Hossain](https://github.com/AbrabOme) | [Maria Hossain Tuli]()
 
+## Video Demonstration
+
+[![Watch the video](https://ytcards.demolab.com/?id=GiGhQvBfyNY&title=RFID-Based+Automated+Parking+Management+System&lang=en&timestamp=1724539920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=697 "RFID-Based Automated Parking Management System")](https://youtu.be/GiGhQvBfyNY)
+
 ## Components
 
 - **Arduino Uno**
@@ -45,7 +49,3 @@ This system ensures efficient and secure management of parking facilities, reduc
 
 ### Circuit View
 ![Circuit View](Circuit%20Part-01%2602.png)
-
-## Video Demonstration
-
-[![Watch the video](https://img.youtube.com/vi/GiGhQvBfyNY/maxresdefault.jpg)](https://youtu.be/GiGhQvBfyNY)
